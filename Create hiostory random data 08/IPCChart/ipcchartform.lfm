@@ -1,0 +1,10 @@
+object frmIPCChart: TfrmIPCChart
+  Left = 260
+  Height = 620
+  Top = 160
+  Width = 1150
+  Caption = 'IPC chart client - HistoryRandomData'
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  Position = poScreenCenter
+end

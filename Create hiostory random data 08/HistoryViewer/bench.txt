@@ -1,0 +1,3 @@
+TfrmViewer bench  RELEASE  samples 643313  chart 1200 x 600
+all data               visible   643313   full redraw    20.62 ms   hover     1.52 ms
+10 min window          visible     1201   full redraw    11.30 ms   hover     1.63 ms

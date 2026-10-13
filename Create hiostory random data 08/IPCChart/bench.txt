@@ -1,0 +1,3 @@
+TfrmIPCChart bench  RELEASE  samples 21603  chart 1200 x 600
+all data               visible    21603   full redraw    13.24 ms   hover     1.62 ms
+10 min window          visible     1200   full redraw    10.66 ms   hover     1.61 ms

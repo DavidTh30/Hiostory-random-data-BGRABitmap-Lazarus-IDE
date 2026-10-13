@@ -1,0 +1,9 @@
+object frmReader: TfrmReader
+  Left = 240
+  Height = 680
+  Top = 120
+  Width = 1280
+  Caption = 'History Reader - CSV files of HistoryRandomData'
+  OnCreate = FormCreate
+  Position = poScreenCenter
+end

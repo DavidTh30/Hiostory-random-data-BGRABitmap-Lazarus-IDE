@@ -1,0 +1,3 @@
+HistoryReader bench  RELEASE  samples 643313  chart 1200 x 600
+all data               visible   643313   full redraw    19.59 ms   hover     1.49 ms
+10 min window          visible     1201   full redraw    10.46 ms   hover     1.62 ms
