@@ -1,0 +1,12 @@
+object frmMain: TfrmMain
+  Left = 200
+  Height = 620
+  Top = 120
+  Width = 1150
+  Caption = 'History random data (BGRABitmap) - 3 sets, 500 ms, 3 hours'
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  Position = poScreenCenter
+  LCLVersion = '3.4.0.0'
+  Scaled = False
+end

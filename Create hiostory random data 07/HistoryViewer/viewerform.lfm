@@ -1,0 +1,9 @@
+object frmViewer: TfrmViewer
+  Left = 220
+  Height = 620
+  Top = 140
+  Width = 1150
+  Caption = 'History chart viewer - daily CSV files'
+  OnCreate = FormCreate
+  Position = poScreenCenter
+end
